@@ -1,0 +1,10 @@
+body {
+    background-color: yellow;
+}
+
+img {
+    margin-left: 10px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.4);
+    width: 200px;
+    height: 200px;
+}
